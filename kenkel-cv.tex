@@ -1,0 +1,38 @@
+\documentclass[11pt]{article}
+\usepackage[margin=1in]{geometry}
+\usepackage{titlesec}
+\usepackage{enumitem}
+\usepackage[charter]{mathdesign}
+\usepackage[colorlinks=true,urlcolor=blue]{hyperref}
+
+% Don't print section numbers
+\titleformat{\section}%
+  [hang]% <shape>
+  {\normalfont\scshape\Large}% <format>
+  {}% <label>
+  {0pt}% <sep>
+  {}% <before code>
+
+% Restyle bulleted lists
+\renewcommand{\labelitemi}{}
+\setlist[itemize,1]{leftmargin=0ex}
+
+\begin{document}
+
+\begin{center}
+  {%
+    \huge\bf%
+    Brenton Kenkel%
+  }%
+
+  \vspace{0.5em}
+
+  {%
+    \Large%
+    Curriculum Vitae%
+  }%
+\end{center}
+
+\input{kenkel-cv-body}
+
+\end{document}
