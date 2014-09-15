@@ -86,8 +86,6 @@ Mailing
 
 * **Vanderbilt University**
     * PSCI 220: Crisis Diplomacy (undergraduate)
-    * PSCI 285: Domestic Consequences of International Politics
-      (undergraduate)
 
 * **University of Rochester**
     * Math Pre-fresher (incoming Ph.D. students)
