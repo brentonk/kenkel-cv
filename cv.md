@@ -47,7 +47,7 @@ Mailing
 
 * ["Dividing the Conquered"](http://bkenkel.com/data/divconq.pdf)
 
-* ["Communication between Allies"](http://bkenkel.com/data/allies.pdf)
+* ["The Diplomacy of Public Goods Problems: Why States with Common Goals Lie"](http://bkenkel.com/data/allies.pdf) *(under review)*
 
 * ["A General Solution to Nonignorable Missing Outcomes in Binary Choice Data"](http://bkenkel.com/data/idlogit.pdf)
 
