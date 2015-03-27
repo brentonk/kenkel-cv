@@ -19,11 +19,10 @@ Mailing
 # Employment
 
 * **Vanderbilt University**, Nashville, TN  
-  Assistant Professor, Department of Political Science, 2014--present
+  Assistant Professor, Department of Political Science, 2014-present
 
 * **Princeton University**, Princeton, NJ  
-  Senior Research Assistant (predoctoral fellow), Department of Politics,
-  2013--2014.
+  Senior Research Assistant (predoctoral fellow), Department of Politics, 2013-2014.
 
 
 # Education
@@ -39,13 +38,9 @@ Mailing
 
 # Publications
 
-* Mark Fey, Jinhee Jo, and Brenton Kenkel,
-  ["Information and International Institutions Revisited,"](http://dx.doi.org/10.1177/0022002713503285)
-  *Journal of Conflict Resolution* (forthcoming).
+* Mark Fey, Jinhee Jo, and Brenton Kenkel, ["Information and International Institutions Revisited,"](http://dx.doi.org/10.1177/0022002713503285) *Journal of Conflict Resolution* (forthcoming).
 
-* Brenton Kenkel and Curtis S. Signorino,
-  ["Estimating Extensive Form Games in R,"](http://www.jstatsoft.org/v56/i08)
-  *Journal of Statistical Software* 56, no. 8 (2014).
+* Brenton Kenkel and Curtis S. Signorino, ["Estimating Extensive Form Games in R,"](http://www.jstatsoft.org/v56/i08) *Journal of Statistical Software* 56, no. 8 (2014).
 
 
 # Working Papers
@@ -58,8 +53,7 @@ Mailing
 
 * "Choosing to Make an Ultimatum" (with Mark Fey)
 
-* ["Boostrapped Basis Regression with Variable Selection: A New Method for Flexible Functional Form Estimation"](http://bkenkel.com/data/basics.pdf)
-  (with Curtis Signorino)
+* ["Boostrapped Basis Regression with Variable Selection: A New Method for Flexible Functional Form Estimation"](http://bkenkel.com/data/basics.pdf) (with Curtis Signorino)
 
 * ["Data Mining for Theorists"](http://polmeth.wustl.edu/mediaDetail.php?docId=1278) (with Curtis Signorino)
 
@@ -70,16 +64,13 @@ Mailing
 
 # Awards and Grants
 
-* 2012\.  Wallis Institute of Political Economy PEPR Grant (with Curtis
-  Signorino).
+* 2012\.  Wallis Institute of Political Economy PEPR Grant (with Curtis Signorino).
 
 * 2011\.  Society for Political Methodology Poster Award.
 
-* 2010\.  Wallis Institute of Political Economy PEPR Grant (with Curtis
-  Signorino).
+* 2010\.  Wallis Institute of Political Economy PEPR Grant (with Curtis Signorino).
 
-* 2010\.  Prize for Excellence in Teaching by a Graduate Student, University of
-  Rochester Department of Political Science.
+* 2010\.  Prize for Excellence in Teaching by a Graduate Student, University of Rochester Department of Political Science.
 
 
 # Courses Taught
@@ -89,16 +80,14 @@ Mailing
 
 * **University of Rochester**
     * Math Pre-fresher (incoming Ph.D. students)
-    * Short Course on R (first-year Ph.D. students)
+    * [Short Course on R](https://github.com/brentonk/rcourse) (first-year Ph.D. students)
 
 
 # Invited Presentations
 
-* 2013\. Conference on Theoretical and Quantitative International Relations
-  Research, Princeton University.
+* 2013\. Conference on Theoretical and Quantitative International Relations Research, Princeton University.
 
-* 2013\. Mathematical Modeling of Political Behavior Conference, University at
-  Buffalo.
+* 2013\. Mathematical Modeling of Political Behavior Conference, University at Buffalo.
 
 * 2012\. New Faces in Political Methodology, Penn State University.
 
@@ -114,17 +103,14 @@ Mailing
 
 # Software
 
-* `games`: statistical estimation of game-theoretic models (with Curtis
-  Signorino).  <http://cran.r-project.org/web/packages/games/index.html>
+* `games`: statistical estimation of game-theoretic models (with Curtis Signorino).  <http://cran.r-project.org/web/packages/games/index.html>
 
-* `polywog`: bootstrapped basis regression with oracle model selection (with
-  Curtis Signorino).  <http://cran.r-project.org/web/packages/polywog/index.html>
+* `polywog`: bootstrapped basis regression with oracle model selection (with Curtis Signorino).  <http://cran.r-project.org/web/packages/polywog/index.html>
 
 
 # Professional Service
 
-* Reviewer for: *International Interactions*, *Journal of Peace Research*,
-  *Public Choice*, *Social Choice and Welfare*
+* Reviewer for: *International Interactions*, *Journal of Peace Research*, *Public Choice*, *Social Choice and Welfare*
 
 * Professional associations:
     * American Political Science Association (2008--present)
