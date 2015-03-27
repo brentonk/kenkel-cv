@@ -112,7 +112,7 @@ Mailing
 
 # Professional Service
 
-* Reviewer for: *International Interactions*, *Journal of Peace Research*, *Public Choice*, *Social Choice and Welfare*
+* Reviewer for: *Conflict Management and Peace Science*, *International Interactions*, *Journal of Peace Research*, *Journal of Politics*, *Public Choice*, *Social Choice and Welfare*, *World Politics*
 
 * Professional associations:
     * American Political Science Association (2008--present)
