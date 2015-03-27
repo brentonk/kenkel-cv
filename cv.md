@@ -76,7 +76,8 @@ Mailing
 # Courses Taught
 
 * **Vanderbilt University**
-    * PSCI 220: Crisis Diplomacy (undergraduate)
+    * [PSCI 220: Crisis Diplomacy](http://bkenkel.com/psci220) (undergraduate)
+    * [PSCI 221: Causes of War](http://bkenkel.com/psci221) (undergraduate)
 
 * **University of Rochester**
     * Math Pre-fresher (incoming Ph.D. students)
