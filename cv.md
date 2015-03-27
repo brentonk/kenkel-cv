@@ -85,6 +85,8 @@ Mailing
 
 # Invited Presentations
 
+* 2014\.  Workshop on Empirical Implications of the Bargaining Model of War, Peace Science Society annual meeting.
+
 * 2013\. Conference on Theoretical and Quantitative International Relations Research, Princeton University.
 
 * 2013\. Mathematical Modeling of Political Behavior Conference, University at Buffalo.
