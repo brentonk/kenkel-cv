@@ -29,7 +29,7 @@ Mailing
 
 * **University of Rochester**, Rochester, NY  
   Ph.D., Political Science, 2014.  
-  M.A., Political Science, 2010.
+  M.A., Political Science, 2011.
 
 * **University of Kentucky**, Lexington, KY  
   B.A., Political Science, 2008.  
