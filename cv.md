@@ -7,7 +7,7 @@ Web
 :   <http://bkenkel.com>
 
 Phone
-:   (615) 875-8345
+:   615-875-8345
 
 Mailing
 :   324 Commons  
@@ -38,28 +38,34 @@ Mailing
 
 # Publications
 
-* Mark Fey, Jinhee Jo, and Brenton Kenkel, ["Information and International Institutions Revisited,"](http://dx.doi.org/10.1177/0022002713503285) *Journal of Conflict Resolution* (forthcoming).
+* Mark Fey, Jinhee Jo, and Brenton Kenkel, ["Information and International Institutions Revisited,"](http://dx.doi.org/10.1177/0022002713503285) *Journal of Conflict Resolution* 59, no. 1 (2015).
 
 * Brenton Kenkel and Curtis S. Signorino, ["Estimating Extensive Form Games in R,"](http://www.jstatsoft.org/v56/i08) *Journal of Statistical Software* 56, no. 8 (2014).
 
 
 # Working Papers
 
+* ["Prediction, Proxies, and Power"](http://bkenkel.com/data/doe.pdf) (with Robert J. Carroll) (revise and resubmit at *American Journal of Political Science*)
+
+* ["Misspecification and the Propensity Score: The Possibility of Overadjustment"](http://www.rochester.edu/college/psc/clarke/MissProp.pdf) (with Kevin Clarke and Miguel Rueda) (revise and resubmit at *Political Science Research and Methods*)
+
 * ["Dividing the Conquered"](http://bkenkel.com/data/divconq.pdf)
 
-* ["The Diplomacy of Public Goods Problems: Why States with Common Goals Lie"](http://bkenkel.com/data/allies.pdf) *(under review)*
+* ["Information and Communication in Public Goods Problems"](http://bkenkel.com/data/talk.pdf)
 
 * ["A General Solution to Nonignorable Missing Outcomes in Binary Choice Data"](http://bkenkel.com/data/idlogit.pdf)
 
-* "Choosing to Make an Ultimatum" (with Mark Fey)
+* ["Campaign Spending and Hidden Policy Intentions"](http://bkenkel.com/data/valence.pdf)
+
+* "Is an Ultimatum the Last Word on Crisis Bargaining?" (with Mark Fey)
+
+* "A Quantitative Bargaining Theory of War" (with Kristopher W. Ramsay)
 
 * ["Boostrapped Basis Regression with Variable Selection: A New Method for Flexible Functional Form Estimation"](http://bkenkel.com/data/basics.pdf) (with Curtis Signorino)
 
 * ["Data Mining for Theorists"](http://polmeth.wustl.edu/mediaDetail.php?docId=1278) (with Curtis Signorino)
 
 * ["An Alternative Solution to the Heckman Selection Problem: Selection Bias as Functional Form Misspecification"](http://polmeth.wustl.edu/mediaDetail.php?docId=1359) (with Curtis Signorino)
-
-* ["Misspecification and the Propensity Score: The Possibility of Overadjustment"](http://www.rochester.edu/college/psc/clarke/MissProp.pdf) (with Kevin Clarke and Miguel Rueda)
 
 
 # Awards and Grants
@@ -76,8 +82,9 @@ Mailing
 # Courses Taught
 
 * **Vanderbilt University**
-    * [PSCI 220: Crisis Diplomacy](http://bkenkel.com/psci220) (undergraduate)
-    * [PSCI 221: Causes of War](http://bkenkel.com/psci221) (undergraduate)
+    * [PSCI 2220: Crisis Diplomacy](http://bkenkel.com/psci2220) (undergraduate)
+    * [PSCI 2221: Causes of War](http://bkenkel.com/psci221) (undergraduate)
+    * [PSCI 8357: Statistics for Political Research II](http://bkenkel.com/psci8357) (graduate)
 
 * **University of Rochester**
     * Math Pre-fresher (incoming Ph.D. students)
@@ -85,6 +92,10 @@ Mailing
 
 
 # Invited Presentations
+
+* 2016\.  Conference on Formal Models of International Relations, University of Southern California.
+
+* 2015\.  Conference on Empirical Implications of Bargaining Theory, Princeton University.
 
 * 2014\.  Workshop on Empirical Implications of the Bargaining Model of War, Peace Science Society annual meeting.
 
@@ -98,10 +109,10 @@ Mailing
 # Conference Presentations
 
 * American Political Science Association: 2011, 2013, 2014
-* Midwest Political Science Association: 2012--2014
-* Southern Political Science Association: 2013
-* Peace Science Society (International): 2011, 2014
-* Society for Political Methodology: 2010--2012
+* Midwest Political Science Association: 2012--2015
+* Southern Political Science Association: 2013, 2016
+* Peace Science Society (International): 2011, 2014--2015
+* Society for Political Methodology: 2010--2012, 2015
 
 
 # Software
@@ -113,11 +124,12 @@ Mailing
 
 # Professional Service
 
-* Reviewer for: *Conflict Management and Peace Science*, *International Interactions*, *Journal of Peace Research*, *Journal of Politics*, *Public Choice*, *Social Choice and Welfare*, *World Politics*
+* Reviewer for: *Conflict Management and Peace Science*, *International Interactions*, *International Organization*, *Journal of Peace Research*, *Journal of Politics*, *Public Choice*, *Social Choice and Welfare*, *World Politics*
 
 * Professional associations:
     * American Political Science Association (2008--present)
     * Midwest Political Science Association (2012--present)
+    * Peace Science Society (2014--present)
 
 
 # References
