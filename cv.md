@@ -38,6 +38,8 @@ Mailing
 
 # Publications
 
+* Kevin A. Clarke, Brenton Kenkel, and Miguel R. Rueda, ["Misspecification and the Propensity Score: The Possibility of Overadjustment,"](http://www.rochester.edu/college/psc/clarke/MissProp.pdf) conditionally accepted at *Political Science Research and Methods*.
+
 * Mark Fey, Jinhee Jo, and Brenton Kenkel, ["Information and International Institutions Revisited,"](http://dx.doi.org/10.1177/0022002713503285) *Journal of Conflict Resolution* 59, no. 1 (2015).
 
 * Brenton Kenkel and Curtis S. Signorino, ["Estimating Extensive Form Games in R,"](http://www.jstatsoft.org/v56/i08) *Journal of Statistical Software* 56, no. 8 (2014).
@@ -46,8 +48,6 @@ Mailing
 # Working Papers
 
 * ["Prediction, Proxies, and Power"](http://bkenkel.com/data/doe.pdf) (with Robert J. Carroll) (revise and resubmit at *American Journal of Political Science*)
-
-* ["Misspecification and the Propensity Score: The Possibility of Overadjustment"](http://www.rochester.edu/college/psc/clarke/MissProp.pdf) (with Kevin Clarke and Miguel Rueda) (revise and resubmit at *Political Science Research and Methods*)
 
 * ["Dividing the Conquered"](http://bkenkel.com/data/divconq.pdf)
 
