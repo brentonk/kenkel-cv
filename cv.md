@@ -93,6 +93,8 @@ Mailing
 
 # Invited Presentations
 
+* 2017\.  Political Economy Workshop, University of Chicago Harris School.
+
 * 2016\.  Conference on Formal Models of International Relations, University of Southern California.
 
 * 2015\.  Conference on Empirical Implications of Bargaining Theory, Princeton University.
@@ -108,11 +110,12 @@ Mailing
 
 # Conference Presentations
 
-* American Political Science Association: 2011, 2013, 2014
+* American Political Science Association: 2011, 2013, 2014, 2016
 * Midwest Political Science Association: 2012--2015
 * Southern Political Science Association: 2013, 2016
 * Peace Science Society (International): 2011, 2014--2015
 * Society for Political Methodology: 2010--2012, 2015
+* International Studies Association: 2016
 
 
 # Software
