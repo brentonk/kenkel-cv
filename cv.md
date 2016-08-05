@@ -85,6 +85,8 @@ Mailing
     * [PSCI 2220: Crisis Diplomacy](http://bkenkel.com/psci2220) (undergraduate)
     * [PSCI 2221: Causes of War](http://bkenkel.com/psci221) (undergraduate)
     * [PSCI 8357: Statistics for Political Research II](http://bkenkel.com/psci8357) (graduate)
+    * PSCI 8360: Models of International Conflict (graduate)
+    * Math boot camp (incoming Ph.D. students)
 
 * **University of Rochester**
     * Math Pre-fresher (incoming Ph.D. students)
