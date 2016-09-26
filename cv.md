@@ -38,6 +38,8 @@ Mailing
 
 # Publications
 
+* Robert J. Carroll and Brenton Kenkel, ["Prediction, Proxies, and Power,"](http://bkenkel.com/data/doe.pdf) conditionally accepted at *American Journal of Political Science*.
+
 * Kevin A. Clarke, Brenton Kenkel, and Miguel R. Rueda, ["Omitted Variables, Countervailing Effects, and the Possibility of Overadjustment,"](http://www.rochester.edu/college/psc/clarke/MissProp.pdf) forthcoming at *Political Science Research and Methods*.
 
 * Mark Fey, Jinhee Jo, and Brenton Kenkel, ["Information and International Institutions Revisited,"](http://dx.doi.org/10.1177/0022002713503285) *Journal of Conflict Resolution* 59, no. 1 (2015).
@@ -46,8 +48,6 @@ Mailing
 
 
 # Working Papers
-
-* ["Prediction, Proxies, and Power"](http://bkenkel.com/data/doe.pdf) (with Robert J. Carroll) (revise and resubmit at *American Journal of Political Science*)
 
 * ["Dividing the Conquered"](http://bkenkel.com/data/divconq.pdf)
 
