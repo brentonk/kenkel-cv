@@ -19,7 +19,10 @@ Mailing
 # Employment
 
 * **Vanderbilt University**, Nashville, TN  
-  Assistant Professor, Department of Political Science, 2014-present
+  Assistant Professor, Department of Political Science, 2014-present.
+
+* **University of Rochester**, Rochester, NY  
+  Visiting Postdoctoral Associate, Wallis Institute of Political Economy, 2017–2018.
 
 * **Princeton University**, Princeton, NJ  
   Senior Research Assistant (predoctoral fellow), Department of Politics, 2013-2014.
@@ -49,9 +52,11 @@ Mailing
 
 # Working Papers
 
-* ["Dividing the Conquered"](http://bkenkel.com/data/divconq.pdf)
+* ["Information and Communication in Collective Action Problems"](http://bkenkel.com/data/ca1.pdf) (under review)
 
-* ["Information and Communication in Public Goods Problems"](http://bkenkel.com/data/talk.pdf)
+* ["Punish Liars, Not Free-Riders"](http://bkenkel.com/data/punish-liars.pdf)
+
+* ["Dividing the Conquered"](http://bkenkel.com/data/divconq.pdf)
 
 * ["A General Solution to Nonignorable Missing Outcomes in Binary Choice Data"](http://bkenkel.com/data/idlogit.pdf)
 
@@ -63,12 +68,10 @@ Mailing
 
 * ["Boostrapped Basis Regression with Variable Selection: A New Method for Flexible Functional Form Estimation"](http://bkenkel.com/data/basics.pdf) (with Curtis Signorino)
 
-* ["Data Mining for Theorists"](http://polmeth.wustl.edu/mediaDetail.php?docId=1278) (with Curtis Signorino)
-
-* ["An Alternative Solution to the Heckman Selection Problem: Selection Bias as Functional Form Misspecification"](http://polmeth.wustl.edu/mediaDetail.php?docId=1359) (with Curtis Signorino)
-
 
 # Awards and Grants
+
+* 2017\.  Research Scholar Grant, Vanderbilt University (\$10,000).
 
 * 2012\.  Wallis Institute of Political Economy PEPR Grant (with Curtis Signorino).
 
@@ -82,9 +85,9 @@ Mailing
 # Courses Taught
 
 * **Vanderbilt University**
-    * [PSCI 2220: Crisis Diplomacy](http://bkenkel.com/psci2220) (undergraduate)
-    * [PSCI 2221: Causes of War](http://bkenkel.com/psci221) (undergraduate)
-    * [PSCI 8357: Statistics for Political Research II](http://bkenkel.com/psci8357) (graduate)
+    * PSCI 2220: Crisis Diplomacy (undergraduate)
+    * PSCI 2221: Causes of War (undergraduate)
+    * PSCI 8357: Statistics for Political Research II (graduate) (lecture notes available at <http://bkenkel.com/pdaps>)
     * PSCI 8360: Models of International Conflict (graduate)
     * Math boot camp (incoming Ph.D. students)
 
@@ -112,12 +115,13 @@ Mailing
 
 # Conference Presentations
 
-* American Political Science Association: 2011, 2013, 2014, 2016
+* American Political Science Association: 2011, 2013, 2014, 2016--2017
 * Midwest Political Science Association: 2012--2015
 * Southern Political Science Association: 2013, 2016
+* European Political Science Association: 2017
 * Peace Science Society (International): 2011, 2014--2015
 * Society for Political Methodology: 2010--2012, 2015
-* International Studies Association: 2016
+* International Studies Association: 2016--2017
 
 
 # Software
@@ -129,12 +133,11 @@ Mailing
 
 # Professional Service
 
-* Reviewer for: *Conflict Management and Peace Science*, *International Interactions*, *International Organization*, *Journal of Peace Research*, *Journal of Politics*, *Public Choice*, *Social Choice and Welfare*, *World Politics*
+* Reviewer for *American Journal of Political Science*, *American Political Science Review*, *Communications in Statistics---Simulation and Computation*, *Conflict Management and Peace Science*, *International Interactions*, *International Organization*, *Journal of Economic Surveys*, *Journal of Peace Research*, *Journal of Politics*, *Public Choice*, *Social Choice and Welfare*, *World Politics*
 
 * Professional associations:
     * American Political Science Association (2008--present)
-    * Midwest Political Science Association (2012--present)
-    * Peace Science Society (2014--present)
+    * European Political Science Association (2017--present)
 
 
 # References
