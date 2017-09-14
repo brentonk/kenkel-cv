@@ -7,7 +7,7 @@ Web
 :   <http://bkenkel.com>
 
 Phone
-:   615-875-8345
+:   615-638-3585
 
 Mailing
 :   324 Commons  
@@ -52,7 +52,7 @@ Mailing
 
 # Working Papers
 
-* ["Information and Communication in Collective Action Problems"](http://bkenkel.com/data/ca1.pdf) (under review)
+* ["Information and Communication in Collective Action Problems"](http://bkenkel.com/data/ca1.pdf)
 
 * ["Punish Liars, Not Free-Riders"](http://bkenkel.com/data/punish-liars.pdf)
 
