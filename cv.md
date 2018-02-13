@@ -98,6 +98,8 @@ Mailing
 
 # Invited Presentations
 
+* 2018\.  Research Methods Speaker Series, Texas A&M Department of Political Science.
+
 * 2017\.  Political Economy Workshop, University of Chicago Harris School.
 
 * 2016\.  Conference on Formal Models of International Relations, University of Southern California.
