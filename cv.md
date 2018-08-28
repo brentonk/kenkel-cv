@@ -41,7 +41,7 @@ Mailing
 
 # Publications
 
-* Robert J. Carroll and Brenton Kenkel, ["Prediction, Proxies, and Power,"](http://bkenkel.com/data/doe.pdf) conditionally accepted at *American Journal of Political Science*.
+* Robert J. Carroll and Brenton Kenkel, ["Prediction, Proxies, and Power,"](http://bkenkel.com/data/doe.pdf) forthcoming at *American Journal of Political Science*.
 
 * Kevin A. Clarke, Brenton Kenkel, and Miguel R. Rueda, ["Omitted Variables, Countervailing Effects, and the Possibility of Overadjustment,"](http://www.rochester.edu/college/psc/clarke/MissProp.pdf) forthcoming at *Political Science Research and Methods*.
 
@@ -52,17 +52,17 @@ Mailing
 
 # Working Papers
 
-* ["Information and Communication in Collective Action Problems"](http://bkenkel.com/data/ca1.pdf)
+* ["Signaling Policy Intentions in Fundraising Contests"](http://bkenkel.com/data/valence.pdf) (Revise and resubmit at *Quarterly Journal of Political Science*)
+
+* ["Information and Communication in Collective Action Problems"](http://bkenkel.com/data/ca1.pdf) (Under review)
 
 * ["Punish Liars, Not Free-Riders"](http://bkenkel.com/data/punish-liars.pdf)
 
-* ["Dividing the Conquered"](http://bkenkel.com/data/divconq.pdf)
+* ["Social Conflict and the Predatory State"](http://bkenkel.com/data/divconq.pdf)
 
 * ["A General Solution to Nonignorable Missing Outcomes in Binary Choice Data"](http://bkenkel.com/data/idlogit.pdf)
 
-* ["Campaign Spending and Hidden Policy Intentions"](http://bkenkel.com/data/valence.pdf)
-
-* "Is an Ultimatum the Last Word on Crisis Bargaining?" (with Mark Fey)
+* "Is an Ultimatum the Last Word on Crisis Bargaining?" (with Mark Fey) (Under review)
 
 * "A Quantitative Bargaining Theory of War" (with Kristopher W. Ramsay)
 
@@ -96,7 +96,13 @@ Mailing
     * [Short Course on R](https://github.com/brentonk/rcourse) (first-year Ph.D. students)
 
 
-# Invited Presentations
+# Invited Presentations and Small Conferences
+
+* 2018\.  Ulric B. and Evelyn L. Bray Social Sciences Seminar, California Institute of Technology.
+
+* 2018\.  Political Science Speaker Series, Washington University in St. Louis.
+
+* 2018\.  Conference on Formal Models of International Relations, University of Southern California.
 
 * 2018\.  Research Methods Speaker Series, Texas A&M Department of Political Science.
 
@@ -115,14 +121,14 @@ Mailing
 * 2012\. New Faces in Political Methodology, Penn State University.
 
 
-# Conference Presentations
+# Other Conference Presentations
 
-* American Political Science Association: 2011, 2013, 2014, 2016--2017
+* American Political Science Association: 2011, 2013--2014, 2016--2017
 * Midwest Political Science Association: 2012--2015
 * Southern Political Science Association: 2013, 2016
 * European Political Science Association: 2017
 * Peace Science Society (International): 2011, 2014--2015
-* Society for Political Methodology: 2010--2012, 2015
+* Society for Political Methodology: 2010--2012, 2015, 2018
 * International Studies Association: 2016--2017
 
 
@@ -135,11 +141,9 @@ Mailing
 
 # Professional Service
 
-* Reviewer for *American Journal of Political Science*, *American Political Science Review*, *Communications in Statistics---Simulation and Computation*, *Conflict Management and Peace Science*, *International Interactions*, *International Organization*, *Journal of Economic Surveys*, *Journal of Peace Research*, *Journal of Politics*, *Public Choice*, *Social Choice and Welfare*, *World Politics*
+* Reviewer for *American Journal of Political Science*, *American Political Science Review*, *Communications in Statistics---Simulation and Computation*, *Conflict Management and Peace Science*, *International Interactions*, *International Organization*, *International Studies Quarterly*, *Journal of Economic Surveys*, *Journal of Peace Research*, *Journal of Politics*, *Public Choice*, *Social Choice and Welfare*, *World Politics*.
 
-* Professional associations:
-    * American Political Science Association (2008--present)
-    * European Political Science Association (2017--present)
+* American Political Science Association member (2008--present)
 
 
 # References
