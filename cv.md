@@ -41,9 +41,11 @@ Mailing
 
 # Publications
 
+* ["Signaling Policy Intentions in Fundraising Contests,"](http://bkenkel.com/data/valence.pdf) accepted at *Quarterly Journal of Political Science*.
+
 * Robert J. Carroll and Brenton Kenkel, ["Prediction, Proxies, and Power,"](http://bkenkel.com/data/doe.pdf) forthcoming at *American Journal of Political Science*.
 
-* Kevin A. Clarke, Brenton Kenkel, and Miguel R. Rueda, ["Omitted Variables, Countervailing Effects, and the Possibility of Overadjustment,"](http://www.rochester.edu/college/psc/clarke/MissProp.pdf) forthcoming at *Political Science Research and Methods*.
+* Kevin A. Clarke, Brenton Kenkel, and Miguel R. Rueda, ["Omitted Variables, Countervailing Effects, and the Possibility of Overadjustment,"](https://doi.org/10.1017/psrm.2016.46) *Political Science Research and Methods* 6, no. 2 (2018).
 
 * Mark Fey, Jinhee Jo, and Brenton Kenkel, ["Information and International Institutions Revisited,"](http://dx.doi.org/10.1177/0022002713503285) *Journal of Conflict Resolution* 59, no. 1 (2015).
 
@@ -52,15 +54,15 @@ Mailing
 
 # Working Papers
 
-* ["Signaling Policy Intentions in Fundraising Contests"](http://bkenkel.com/data/valence.pdf) (Revise and resubmit at *Quarterly Journal of Political Science*)
+* ["Social Conflict and the Predatory State"](http://bkenkel.com/data/divconq.pdf) (Under review)
 
 * ["Information and Communication in Collective Action Problems"](http://bkenkel.com/data/ca1.pdf) (Under review)
 
 * ["Punish Liars, Not Free-Riders"](http://bkenkel.com/data/punish-liars.pdf)
 
-* ["Social Conflict and the Predatory State"](http://bkenkel.com/data/divconq.pdf)
-
 * ["A General Solution to Nonignorable Missing Outcomes in Binary Choice Data"](http://bkenkel.com/data/idlogit.pdf)
+
+* "The Emergence of Political Order" (with Scott Abramson and Emiel Awad).
 
 * "Is an Ultimatum the Last Word on Crisis Bargaining?" (with Mark Fey) (Under review)
 
@@ -92,6 +94,7 @@ Mailing
     * Math boot camp (incoming Ph.D. students)
 
 * **University of Rochester**
+    * PSC 586: Political Economy II (graduate)
     * Math Pre-fresher (incoming Ph.D. students)
     * [Short Course on R](https://github.com/brentonk/rcourse) (first-year Ph.D. students)
 
@@ -123,7 +126,7 @@ Mailing
 
 # Other Conference Presentations
 
-* American Political Science Association: 2011, 2013--2014, 2016--2017
+* American Political Science Association: 2011, 2013--2014, 2016--2018
 * Midwest Political Science Association: 2012--2015
 * Southern Political Science Association: 2013, 2016
 * European Political Science Association: 2017
@@ -141,7 +144,7 @@ Mailing
 
 # Professional Service
 
-* Reviewer for *American Journal of Political Science*, *American Political Science Review*, *Communications in Statistics---Simulation and Computation*, *Conflict Management and Peace Science*, *International Interactions*, *International Organization*, *International Studies Quarterly*, *Journal of Economic Surveys*, *Journal of Peace Research*, *Journal of Politics*, *Public Choice*, *Social Choice and Welfare*, *World Politics*.
+* Reviewer for *American Journal of Political Science*, *American Political Science Review*, *Communications in Statistics---Simulation and Computation*, *Conflict Management and Peace Science*, *International Interactions*, *International Organization*, *International Studies Quarterly*, *Journal of Economic Surveys*, *Journal of Peace Research*, *Journal of Politics*, *Public Choice*, *Quarterly Journal of Political Science*, *Social Choice and Welfare*, *World Politics*.
 
 * American Political Science Association member (2008--present)
 
