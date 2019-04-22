@@ -47,7 +47,7 @@ Mailing
 
 * Robert J. Carroll and Brenton Kenkel, ["Prediction, Proxies, and Power,"](http://bkenkel.com/data/doe.pdf) forthcoming in *American Journal of Political Science*.
 
-* Brenton Kenkel, ["Signaling Policy Intentions in Fundraising Contests,"](http://bkenkel.com/data/valence.pdf) *Quarterly Journal of Political Science* 14, no. 2 (2019).
+* Brenton Kenkel, ["Signaling Policy Intentions in Fundraising Contests,"](http://dx.doi.org/10.1561/100.00018001) *Quarterly Journal of Political Science* 14, no. 2 (2019).
 
 * Kevin A. Clarke, Brenton Kenkel, and Miguel R. Rueda, ["Omitted Variables, Countervailing Effects, and the Possibility of Overadjustment,"](https://doi.org/10.1017/psrm.2016.46) *Political Science Research and Methods* 6, no. 2 (2018).
 
