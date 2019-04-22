@@ -19,13 +19,13 @@ Mailing
 # Employment
 
 * **Vanderbilt University**, Nashville, TN  
-  Assistant Professor, Department of Political Science, 2014-present.
+  Assistant Professor, Department of Political Science, 2014--present.
 
 * **University of Rochester**, Rochester, NY  
-  Visiting Postdoctoral Associate, Wallis Institute of Political Economy, 2017–2018.
+  Visiting Postdoctoral Associate, Wallis Institute of Political Economy, 2017--2018.
 
 * **Princeton University**, Princeton, NJ  
-  Senior Research Assistant (predoctoral fellow), Department of Politics, 2013-2014.
+  Senior Research Assistant (predoctoral fellow), Department of Politics, 2013--2014.
 
 
 # Education
@@ -41,9 +41,13 @@ Mailing
 
 # Publications
 
-* ["Signaling Policy Intentions in Fundraising Contests,"](http://bkenkel.com/data/valence.pdf) accepted at *Quarterly Journal of Political Science*.
+* Brenton Kenkel, ["The Efficacy of Cheap Talk in Collective Action Problems,"](http://bkenkel.com/data/ca1.pdf) forthcoming in *Journal of Theoretical Politics*.
 
-* Robert J. Carroll and Brenton Kenkel, ["Prediction, Proxies, and Power,"](http://bkenkel.com/data/doe.pdf) forthcoming at *American Journal of Political Science*.
+* Mark Fey and Brenton Kenkel, ["Is an Ultimatum the Last Word on Crisis Bargaining?"](http://bkenkel.com/data/ultimata.pdf) forthcoming in *Journal of Politics*.
+
+* Robert J. Carroll and Brenton Kenkel, ["Prediction, Proxies, and Power,"](http://bkenkel.com/data/doe.pdf) forthcoming in *American Journal of Political Science*.
+
+* Brenton Kenkel, ["Signaling Policy Intentions in Fundraising Contests,"](http://bkenkel.com/data/valence.pdf) *Quarterly Journal of Political Science* 14, no. 2 (2019).
 
 * Kevin A. Clarke, Brenton Kenkel, and Miguel R. Rueda, ["Omitted Variables, Countervailing Effects, and the Possibility of Overadjustment,"](https://doi.org/10.1017/psrm.2016.46) *Political Science Research and Methods* 6, no. 2 (2018).
 
@@ -54,19 +58,23 @@ Mailing
 
 # Working Papers
 
-* ["Social Conflict and the Predatory State"](http://bkenkel.com/data/divconq.pdf) (Under review)
-
-* ["Information and Communication in Collective Action Problems"](http://bkenkel.com/data/ca1.pdf) (Under review)
+* ["Social Conflict and the Predatory State"](http://bkenkel.com/data/divconq.pdf)
 
 * ["Punish Liars, Not Free-Riders"](http://bkenkel.com/data/punish-liars.pdf)
 
+* ["Diplomatic Relations and Conflict Management: A Dynamic Analysis"](http://bkenkel.com/data/dyndip.pdf)
+
+* ["The Construction of Political Order"](http://bkenkel.com/data/state-mechanism.pdf) (with Scott Abramson and Emiel Awad)
+
+* "A Quantitative Bargaining Theory of War" (with Kristopher Ramsay)
+
+* "Strategic Victimization" (with Michael Gibilisco and Miguel Rueda)
+
+* "Do External Threats Build or Break States?" (with Jack Paine)
+
+* "Diplomatic Communication in Times of Change" (with Brad Smith)
+
 * ["A General Solution to Nonignorable Missing Outcomes in Binary Choice Data"](http://bkenkel.com/data/idlogit.pdf)
-
-* "The Emergence of Political Order" (with Scott Abramson and Emiel Awad).
-
-* "Is an Ultimatum the Last Word on Crisis Bargaining?" (with Mark Fey) (Under review)
-
-* "A Quantitative Bargaining Theory of War" (with Kristopher W. Ramsay)
 
 * ["Boostrapped Basis Regression with Variable Selection: A New Method for Flexible Functional Form Estimation"](http://bkenkel.com/data/basics.pdf) (with Curtis Signorino)
 
@@ -126,11 +134,11 @@ Mailing
 
 # Other Conference Presentations
 
-* American Political Science Association: 2011, 2013--2014, 2016--2018
-* Midwest Political Science Association: 2012--2015
-* Southern Political Science Association: 2013, 2016
+* American Political Science Association: 2011, 2013--2014, 2016--2019
+* Midwest Political Science Association: 2012--2015, 2019
+* Southern Political Science Association: 2013, 2016, 2019
 * European Political Science Association: 2017
-* Peace Science Society (International): 2011, 2014--2015
+* Peace Science Society (International): 2011, 2014--2015, 2018
 * Society for Political Methodology: 2010--2012, 2015, 2018
 * International Studies Association: 2016--2017
 
@@ -144,9 +152,17 @@ Mailing
 
 # Professional Service
 
-* Reviewer for *American Journal of Political Science*, *American Political Science Review*, *Communications in Statistics---Simulation and Computation*, *Conflict Management and Peace Science*, *International Interactions*, *International Organization*, *International Studies Quarterly*, *Journal of Economic Surveys*, *Journal of Peace Research*, *Journal of Politics*, *Public Choice*, *Quarterly Journal of Political Science*, *Social Choice and Welfare*, *World Politics*.
+* Reviewer for *American Journal of Political Science*, *American Political Science Review*, *Communications in Statistics---Simulation and Computation*, *Conflict Management and Peace Science*, *International Interactions*, *International Organization*, *International Studies Quarterly*, *Japanese Journal of Political Science*, *Journal of Economic Surveys*, *Journal of Peace Research*, *Journal of Politics*, *Public Choice*, *Quarterly Journal of Political Science*, *Social Choice and Welfare*, *World Politics*.
 
 * American Political Science Association member (2008--present)
+
+
+# Departmental Service
+
+* **Vanderbilt University**
+    * Graduate Committee: 2014--2016
+    * International Relations Search Committee: 2016
+    * Placement Director: 2018--2019
 
 
 # References
